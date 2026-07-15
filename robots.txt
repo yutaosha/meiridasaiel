@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yutaosha.github.io/meiridasaiel/sitemap.xml
